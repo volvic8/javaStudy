@@ -1,4 +1,4 @@
-package test;
+package employee;
 
 // インスタンス（オブジェクト、new）　vs スタティック（static）
 public class EmployeeMain {

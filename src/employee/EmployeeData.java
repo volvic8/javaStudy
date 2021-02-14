@@ -1,4 +1,4 @@
-package test;
+package employee;
 
 public class EmployeeData {
 	// インスタンスごとに違う値を設定できる
