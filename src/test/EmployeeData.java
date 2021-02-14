@@ -22,11 +22,11 @@ public class EmployeeData {
 	void setId(Integer id) {
 		this.id = id;
 	}
-	
+
 	void setName(String name) {
 		this.name = name;
 	}
-	
+
 	void setSplitStr(String splitStr) {
 		this.splitStr = splitStr;
 	}
